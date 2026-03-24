@@ -1,3 +1,20 @@
+
+## ⚠️ Disclaimer
+This software is provided "as is", without warranty of any kind. I the author am not responsible for any lost funds, compromised wallets, or damages incurred from the use of this tool. **!!!! Always run this tool in an offline, airgapped environment !!!!** and only use it to recover wallets you personally own.
+
+# EthRecover 🗝️
+**A secure, offline Ethereum Private Key Recovery Engine.**
+
+EthRecover is a little but powerful offline tool I designed to recover a wallet i had written down before long time ago and it turned out i had written one wrong letter 🙈🙈 thankfully i fixed it with this script and recovered my 0.2 eth lol 😎 it works on corrupted Ethereum private keys by systematically generating permutations and verifying them against a known target Ethereum address. 
+
+💖💖 Its a free tool but if i helped you recover almost lost funds and you want to buy me soda id be thankful ❤
+
+Ethereum and EVM: 0x53d794f73283DBBB69b674D3927A87912824c4f2
+
+Tron: TMCdAYPW1QKXW51DXmDTxtcKVDqX31WERH
+
+Solana: CzaSP3TcdM3cELo1YYEwfzBwe5dEThxJEANjEQ8onUxq
+
 # EthRecover - Instructions
 
 EthRecover is a powerful offline tool designed to recover corrupted Ethereum private keys by systematically generating permutations and verifying them against a known target Ethereum address. 
